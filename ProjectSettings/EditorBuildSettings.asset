@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ilkSahne.unity
+    guid: d0bf58d5de627fa45a346f0c67580790
+  - enabled: 1
+    path: Assets/Scenes/cikisSahnesi.unity
+    guid: 86cbe7a1d8dc3ba4daa3d7eebb2f631e
+  m_configObjects: {}
